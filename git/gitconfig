@@ -127,9 +127,3 @@
   enabled = true
 [include]
   path = .gitconfig.user
-[user]
-	name = Matt Peter
-	email = mpeter@redhat.com
-[gui]
-	newbranchtemplate = feature/
-	fastcopyblame = true
