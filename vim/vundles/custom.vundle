@@ -1,0 +1,8 @@
+Bundle "https://github.com/airblade/vim-rooter"
+Bundle "https://github.com/vim-scripts/SQLUtilities"
+Bundle "https://github.com/vim-scripts/align"
+Bundle "https://github.com/chrisbra/csv.vim"
+Bundle "https://github.com/rodjek/vim-puppet"
+Bundle "https://github.com/tfnico/vim-gradle"
+Bundle "https://github.com/vim-scripts/groovyindent"
+Bundle "https://github.com/mpeter/vim-hashicorp-tools.git"
